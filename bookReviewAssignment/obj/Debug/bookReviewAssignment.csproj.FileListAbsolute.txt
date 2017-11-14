@@ -1,0 +1,6 @@
+D:\workspace\bookReviewProject\bookReviewAssignment\bookReviewAssignment\bin\Debug\bookReviewAssignment.exe.config
+D:\workspace\bookReviewProject\bookReviewAssignment\bookReviewAssignment\bin\Debug\bookReviewAssignment.exe
+D:\workspace\bookReviewProject\bookReviewAssignment\bookReviewAssignment\bin\Debug\bookReviewAssignment.pdb
+D:\workspace\bookReviewProject\bookReviewAssignment\bookReviewAssignment\obj\Debug\bookReviewAssignment.csprojResolveAssemblyReference.cache
+D:\workspace\bookReviewProject\bookReviewAssignment\bookReviewAssignment\obj\Debug\bookReviewAssignment.exe
+D:\workspace\bookReviewProject\bookReviewAssignment\bookReviewAssignment\obj\Debug\bookReviewAssignment.pdb
